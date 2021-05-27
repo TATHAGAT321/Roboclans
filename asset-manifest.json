@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Roboclans/static/css/main.1020e9e9.chunk.css",
+    "main.js": "/Roboclans/static/js/main.001f53be.chunk.js",
+    "main.js.map": "/Roboclans/static/js/main.001f53be.chunk.js.map",
+    "runtime-main.js": "/Roboclans/static/js/runtime-main.c7ee59ed.js",
+    "runtime-main.js.map": "/Roboclans/static/js/runtime-main.c7ee59ed.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/Roboclans/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.8321e64b.chunk.js": "/Roboclans/static/js/2.8321e64b.chunk.js",
+    "static/js/2.8321e64b.chunk.js.map": "/Roboclans/static/js/2.8321e64b.chunk.js.map",
+    "static/js/3.834d3198.chunk.js": "/Roboclans/static/js/3.834d3198.chunk.js",
+    "static/js/3.834d3198.chunk.js.map": "/Roboclans/static/js/3.834d3198.chunk.js.map",
+    "index.html": "/Roboclans/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/Roboclans/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.1020e9e9.chunk.css.map": "/Roboclans/static/css/main.1020e9e9.chunk.css.map",
+    "static/js/2.8321e64b.chunk.js.LICENSE.txt": "/Roboclans/static/js/2.8321e64b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7ee59ed.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.8321e64b.chunk.js",
+    "static/css/main.1020e9e9.chunk.css",
+    "static/js/main.001f53be.chunk.js"
+  ]
+}
